@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **janhavichavada11@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/findjanhv](https://linktr.ee/findjanhv)
+- 📄 Find me [https://linktr.ee/findjanhv](https://linktr.ee/findjanhv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/janhavi vijay chavada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi vijay chavada" height="30" width="40" /></a>
 <a href="https://fb.com/hijanhv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hijanhv" height="30" width="40" /></a>
 <a href="https://instagram.com/hijanhv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hijanhv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/she so savage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="she so savage" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/janhvcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janhvcodes" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/janhavichxwlx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="janhavichxwlx" height="30" width="40" /></a>
 </p>
@@ -32,6 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hijanhv&show_icons=true&locale=en" alt="hijanhv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hijanhv&" alt="hijanhv" /></p>
-
-
-
