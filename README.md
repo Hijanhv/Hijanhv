@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Janhavi 
+Hi ! My name is Janhavi , Systems-focused backend engineer specializing in Rust and privacy-critical infrastructure.
 ==============================================================================================================================================
 
 https://linktr.ee/findjanhv
 ---------------------------
+Here are **4–5 crisp lines** you can use anywhere (GitHub, resume header, or applications):
 
-Full-stack developer crafting clean experiences across Web2 & Web3.
+> My goal is to build **robust backend systems** where **correctness, performance, and security** are first-class concerns.
+> I aim to specialize in **Rust-based infrastructure** for **privacy-critical and distributed systems**.
+> I’m particularly interested in **confidential compute**, **secure backend services**, and **Web3 infrastructure**.
+> I enjoy owning systems end-to-end, reasoning deeply about **failure modes and tradeoffs**, and building software that holds up under real-world stress.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [janhavichavada11@gmail.com](mailto:janhavichavada11@gmail.com)
-* 🧠  I'm currently learning rust
-* 👥  I'm looking to collaborate on web3,AI
 
 
 
