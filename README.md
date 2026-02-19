@@ -3,7 +3,7 @@ Hi ! My name is Janhavi , Systems-focused backend engineer specializing in Rust 
 
 https://linktr.ee/findjanhv
 ---------------------------
-Here are **4–5 crisp lines** you can use anywhere (GitHub, resume header, or applications):
+
 
 > My goal is to build **robust backend systems** where **correctness, performance, and security** are first-class concerns.
 > I aim to specialize in **Rust-based infrastructure** for **privacy-critical and distributed systems**.
